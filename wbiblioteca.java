@@ -26,14 +26,14 @@ public class wbiblioteca {
 
     public void PegarNumero() {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Digite o primeiro número:");
+        System.out.println("Digite o número:");
         num1 = scanner.nextInt();
         scanner.close();
 }
 
 public void PegarNumeroF() {
     Scanner scanner = new Scanner(System.in);
-    System.out.println("Digite o primeiro número:");
+    System.out.println("Digite o número:");
     num1F = scanner.nextFloat();
     scanner.close();
 }
