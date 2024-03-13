@@ -12,7 +12,6 @@ public class wbiblioteca {
             num1 = scanner.nextInt();
             System.out.println("Digite o segundo número:");
             num2 = scanner.nextInt();
-            scanner.close();
     }
 
     public void PegarNumerosF() {
@@ -21,21 +20,18 @@ public class wbiblioteca {
         num1F = scanner.nextFloat();
         System.out.println("Digite o segundo número:");
         num2F = scanner.nextFloat();
-        scanner.close();
 }
 
     public void PegarNumero() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Digite o número:");
         num1 = scanner.nextInt();
-        scanner.close();
 }
 
 public void PegarNumeroF() {
     Scanner scanner = new Scanner(System.in);
     System.out.println("Digite o número:");
     num1F = scanner.nextFloat();
-    scanner.close();
 }
     public int VoltarNumero1(){
         return num1;
