@@ -12,7 +12,5 @@ public class ex18 {
         float INnota3 = 1.f / nota3;
         float MediaArmonica = 3.f / (INnota1 + INnota2 + INnota3);
         System.out.println("a media armionica é" + " " + MediaArmonica);
-
-
     }
 }
