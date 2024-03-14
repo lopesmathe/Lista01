@@ -1,6 +1,7 @@
-    import java.util.Scanner;
+import java.util.Scanner;
+
 public class ex2 {
-    public static void main(String[] agrs){
+    public static void rum() {
         System.out.println("me manda dois numeros e eu vou te falar a soma deles");
         System.out.println("me de o primeiro numero");
         Scanner SScanner = new Scanner(System.in);
@@ -11,4 +12,4 @@ public class ex2 {
         int resu = num1 + num2;
         System.out.printf("a some de %d e de %d é de %d", num1, num2, resu);
     }
-}        
+}

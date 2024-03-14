@@ -1,5 +1,5 @@
 public class ex14 {
-    public static void main(String[] args) {
+    public static void rum() {
         System.out.println("Digite o valor do a1");
         wbiblioteca bi = new wbiblioteca();
 
@@ -13,12 +13,9 @@ public class ex14 {
 
         bi.PegarNumero();
         int r = bi.VoltarNumero1();
-        int resu = a1 + (n - 1)*r;
+        int resu = a1 + (n - 1) * r;
 
         System.out.println("o resutado é" + " " + resu);
 
-
-        
-        
     }
 }

@@ -1,6 +1,7 @@
-    import java.util.Scanner;
+import java.util.Scanner;
+
 public class ex3 {
-    public static void main(String[] agrs){
+    public static void rum() {
         System.out.println("me informe dois valores");
         System.out.println("valor 1");
         Scanner Scanner1 = new Scanner(System.in);
@@ -10,12 +11,10 @@ public class ex3 {
         int B = Scanner2.nextInt();
         if (A > B) {
             System.out.printf("o valor %d é maior do que o valor %d", A, B);
-        }
-        else if (B > A) {
+        } else if (B > A) {
             System.out.printf("o valor %d é maior do que o valor %d", B, A);
-        }
-        else
+        } else
             System.out.printf("ambos os numeros sao iguais");
-            Scanner1.close();         
+        Scanner1.close();
     }
 }

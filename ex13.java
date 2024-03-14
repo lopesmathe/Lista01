@@ -1,5 +1,5 @@
 public class ex13 {
-    public static void main(String[] args) {
+    public static void rum() {
         int resu = 0;
         wbiblioteca bi = new wbiblioteca();
         bi.PegarNumeros();
@@ -19,21 +19,19 @@ public class ex13 {
                 System.out.println(resu);
                 break;
 
-                case 3:
+            case 3:
                 resu = bi.ContaDeMultiplicação(A, B);
                 System.out.println(resu);
                 break;
 
-                case 4:
+            case 4:
                 resu = bi.ContaDeDivisão(A, B);
                 System.out.println(resu);
                 break;
-        
+
             default:
                 break;
         }
-        
 
-        
     }
 }

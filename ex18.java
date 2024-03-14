@@ -1,5 +1,5 @@
 public class ex18 {
-    public static void main(String[] args) {
+    public static void rum() {
         wbiblioteca bb = new wbiblioteca();
         System.out.println("me informe a nota 1, 2 , 3");
         bb.PegarNumerossF();

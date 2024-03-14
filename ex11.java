@@ -1,22 +1,22 @@
 import java.util.Scanner;
 
-public class ex11{
-    public static void main(String[] args) {
+public class ex11 {
+    public static void rum() {
         Scanner scanner = new Scanner(System.in);
-        
+
         // Ler os três valores inteiros distintos
         System.out.println("Digite o primeiro valor:");
         int valor1 = scanner.nextInt();
-        
+
         System.out.println("Digite o segundo valor:");
         int valor2 = scanner.nextInt();
-        
+
         System.out.println("Digite o terceiro valor:");
         int valor3 = scanner.nextInt();
-        
+
         // Ordenar os valores
         int menor, meio, maior;
-        
+
         // Encontrar o menor valor
         if (valor1 <= valor2 && valor1 <= valor3) {
             menor = valor1;
@@ -46,12 +46,11 @@ public class ex11{
                 maior = valor1;
             }
         }
-        
+
         // Exibir os valores em ordem crescente
         System.out.println("Os valores em ordem crescente são:");
         System.out.println(menor + ", " + meio + ", " + maior);
-        
+
         scanner.close();
     }
 }
-
