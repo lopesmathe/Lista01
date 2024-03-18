@@ -1,5 +1,5 @@
-public class ex8 {
-    public static void rum() {
+public class Ex8 {
+    public static void run() {
         System.out.println("Me de um valor e eu irei falar se ele é maior ou menor do q 50");
         wbiblioteca biblioteca = new wbiblioteca();
         biblioteca.PegarNumero();

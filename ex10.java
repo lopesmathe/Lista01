@@ -1,5 +1,5 @@
-public class ex10 {
-    public static void rum() {
+public class Ex10 {
+    public static void run() {
         System.out.println("digite o numero de 1 a 5 e ele sera escrito por extenso");
         wbiblioteca biblioteca = new wbiblioteca();
         biblioteca.PegarNumero();

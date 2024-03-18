@@ -7,64 +7,64 @@ public class alista1 {
         int escolha = Escolha.nextInt();
         switch (escolha) {
             case 1:
-                ex1.rum();
+                Ex1.run();
                 break;
             case 2:
-                ex2.rum();
+                Ex2.run();
                 break;
             case 3:
-                ex3.rum();
+                Ex3.run();
                 break;
             case 4:
-                ex4.rum();
+                Ex4.run();
                 break;
             case 5:
-                ex5.rum();
+                Ex5.run();
                 break;
             case 6:
-                ex6.rum();
+                Ex6.run();
                 break;
             case 7:
-                ex7.rum();
+                Ex7.run();
                 break;
             case 8:
-                ex8.rum();
+                Ex8.run();
                 break;
             case 9:
-                ex9.rum();
+                Ex9.run();
                 break;
             case 10:
-                ex10.rum();
+                Ex10.run();
                 break;
             case 11:
-                ex11.rum();
+                Ex11.run();
                 break;
             case 12:
-                ex12.rum();
+                Ex12.run();
                 break;
             case 13:
-                ex13.rum();
+                Ex13.run();
                 break;
             case 14:
-                ex14.rum();
+                Ex14.run();
                 break;
             case 15:
-                ex15.rum();
+                Ex15.run();
                 break;
             case 16:
-                ex16.rum();
+                Ex16.run();
                 break;
             case 17:
-                ex17.rum();
+                Ex17.run();
                 break;
             case 18:
-                ex18.rum();
+                Ex18.run();
                 break;
             case 19:
-                ex19.rum();
+                Ex19.run();
                 break;
             case 20:
-                ex20.rum();
+                Ex20.run();
                 break;
         }
     }

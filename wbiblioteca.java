@@ -79,7 +79,7 @@ public void PegarNumeroF() {
         return num3;
     }
 
-    public int ContaDeAdição(int a, int b){
+    public int  ContaDeAdição(int a, int b){
         return a + b;
     }
     public int ContaDeSubtração(int a, int b){

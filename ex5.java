@@ -1,5 +1,5 @@
-public class ex5 {
-    public static void rum() {
+public class Ex5 {
+    public static void run() {
         wbiblioteca biblioteca = new wbiblioteca();
         biblioteca.PegarNumeros();
         int a = biblioteca.VoltarNumero1();

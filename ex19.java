@@ -1,5 +1,5 @@
-public class ex19 {
-    public static void rum() {
+public class Ex19 {
+    public static void run() {
         wbiblioteca bb = new wbiblioteca();
         System.out.println("me informe o raio e dps a altura");
         bb.PegarNumerosF();

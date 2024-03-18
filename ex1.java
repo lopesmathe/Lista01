@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class ex1 {
-    public static void rum() {
+public class Ex1 {
+    public static void run() {
         System.out.println("me manda um numero, e eu falarei se ele é maior ou menor do que 10");
         Scanner SScaner = new Scanner(System.in);
         int numero = SScaner.nextInt();

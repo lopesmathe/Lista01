@@ -1,5 +1,5 @@
-public class ex12 {
-    public static void rum() {
+public class Ex12 {
+    public static void run() {
         String[] mes = { "janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto", "setembro",
                 "outubro", "novembro", "dezembro" };
         wbiblioteca b = new wbiblioteca();

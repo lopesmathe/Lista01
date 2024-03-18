@@ -1,5 +1,5 @@
-public class ex15 {
-    public static void rum() {
+public class Ex15 {
+    public static void run() {
         System.out.println("manda os valores de p1");
         wbiblioteca bb = new wbiblioteca();
         bb.PegarNumerosF();

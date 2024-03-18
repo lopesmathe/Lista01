@@ -1,5 +1,5 @@
-public class ex6 {
-    public static void rum() {
+public class Ex6 {
+    public static void run() {
         wbiblioteca biblioteca = new wbiblioteca();
         biblioteca.PegarNumeroF();
         float temperatura = biblioteca.VoltarNumero1F();

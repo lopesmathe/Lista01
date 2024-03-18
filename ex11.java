@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class ex11 {
-    public static void rum() {
+public class Ex11 {
+    public static void run() {
         Scanner scanner = new Scanner(System.in);
 
         // Ler os três valores inteiros distintos

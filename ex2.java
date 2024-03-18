@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class ex2 {
-    public static void rum() {
+public class Ex2 {
+    public static void run() {
         System.out.println("me manda dois numeros e eu vou te falar a soma deles");
         System.out.println("me de o primeiro numero");
         Scanner SScanner = new Scanner(System.in);
