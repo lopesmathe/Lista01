@@ -1,7 +1,7 @@
 public class Ex7 {
     public static void run() {
         System.out.println("Me de um valor e eu irei falar se ele é esta no intervalo de 100 a 200");
-        wbiblioteca biblioteca = new wbiblioteca();
+        Wbiblioteca biblioteca = new Wbiblioteca();
         biblioteca.PegarNumero();
         int num1 = biblioteca.VoltarNumero1();
         if (num1 >= 100 && num1 <= 200) {

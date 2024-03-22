@@ -1,6 +1,6 @@
 public class Ex20 {
     public static void run() {
-        wbiblioteca bb = new wbiblioteca();
+        Wbiblioteca bb = new Wbiblioteca();
         System.out.println("me informe o tempo e a velocidade");
         bb.PegarNumerosF();
         float tempo = bb.VoltarNumero1F();

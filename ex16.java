@@ -1,7 +1,7 @@
 public class Ex16 {
     public static void run() {
         System.out.println("mande 3 notas");
-        wbiblioteca bb = new wbiblioteca();
+        Wbiblioteca bb = new Wbiblioteca();
         bb.PegarNumerosF();
         float nota1 = bb.VoltarNumero1F();
         float nota2 = bb.VoltarNumero2F();

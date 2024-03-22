@@ -1,6 +1,6 @@
 public class Ex5 {
     public static void run() {
-        wbiblioteca biblioteca = new wbiblioteca();
+        Wbiblioteca biblioteca = new Wbiblioteca();
         biblioteca.PegarNumeros();
         int a = biblioteca.VoltarNumero1();
         int b = biblioteca.VoltarNumero2();

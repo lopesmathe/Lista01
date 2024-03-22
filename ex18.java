@@ -1,6 +1,6 @@
 public class Ex18 {
     public static void run() {
-        wbiblioteca bb = new wbiblioteca();
+        Wbiblioteca bb = new Wbiblioteca();
         System.out.println("me informe a nota 1, 2 , 3");
         bb.PegarNumerossF();
         float nota1 = bb.VoltarNumero1F();

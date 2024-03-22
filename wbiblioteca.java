@@ -1,5 +1,5 @@
     import java.util.Scanner;
-public class wbiblioteca {
+public class Wbiblioteca {
 
     private int num1;
     private int num2;
@@ -8,7 +8,7 @@ public class wbiblioteca {
     private float num2F;
     private float num3F;
 
-    public void PegarNumeros() {
+    public  void PegarNumeros() {
             Scanner scanner = new Scanner(System.in);
             System.out.println("Digite o primeiro número:");
             num1 = scanner.nextInt();

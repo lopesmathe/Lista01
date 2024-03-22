@@ -1,7 +1,7 @@
 public class Ex8 {
     public static void run() {
         System.out.println("Me de um valor e eu irei falar se ele é maior ou menor do q 50");
-        wbiblioteca biblioteca = new wbiblioteca();
+        Wbiblioteca biblioteca = new Wbiblioteca();
         biblioteca.PegarNumero();
         int num1 = biblioteca.VoltarNumero1();
         if (num1 > 50) {

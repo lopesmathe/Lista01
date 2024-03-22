@@ -1,7 +1,7 @@
 public class Ex14 {
     public static void run() {
         System.out.println("Digite o valor do a1");
-        wbiblioteca bi = new wbiblioteca();
+        Wbiblioteca bi = new Wbiblioteca();
 
         bi.PegarNumero();
         int a1 = bi.VoltarNumero1();

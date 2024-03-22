@@ -1,7 +1,7 @@
 public class Ex13 {
     public static void run() {
         int resu = 0;
-        wbiblioteca bi = new wbiblioteca();
+        Wbiblioteca bi = new Wbiblioteca();
         bi.PegarNumeros();
         int A = bi.VoltarNumero1();
         int B = bi.VoltarNumero2();

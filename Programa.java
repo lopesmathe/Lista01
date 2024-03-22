@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class alista1 {
+public class Programa {
     public static void main(String[] args) {
         Scanner Escolha = new Scanner(System.in);
         System.out.println("escolha qual ex vc vai querer!!!");
