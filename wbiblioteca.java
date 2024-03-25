@@ -8,7 +8,7 @@ public class Wbiblioteca {
     private float num2F;
     private float num3F;
 
-    public void PegarNumeros() {
+    public  void PegarNumeros() {
             Scanner scanner = new Scanner(System.in);
             System.out.println("Digite o primeiro número:");
             num1 = scanner.nextInt();
@@ -79,7 +79,7 @@ public void PegarNumeroF() {
         return num3;
     }
 
-    public int ContaDeAdição(int a, int b){
+    public int  ContaDeAdição(int a, int b){
         return a + b;
     }
     public int ContaDeSubtração(int a, int b){

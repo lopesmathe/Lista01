@@ -1,5 +1,5 @@
 public class Ex9 {
-    public static void rum() {
+    public static void run() {
         System.out.println("Me de dois valores e eu irei falar se ele sao iguais ou diferentes");
         Wbiblioteca biblioteca = new Wbiblioteca();
         biblioteca.PegarNumeros();

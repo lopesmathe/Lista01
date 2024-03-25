@@ -1,70 +1,69 @@
 import java.util.Scanner;
-
-public class Alista1 {
+public class Aprograma {
     public static void main(String[] args) {
         Scanner Escolha = new Scanner(System.in);
         System.out.println("escolha qual ex vc vai querer!!!");
         int escolha = Escolha.nextInt();
         switch (escolha) {
             case 1:
-                Ex1.rum();
+                Ex1.run();
                 break;
             case 2:
-                Ex2.rum();
+                Ex2.run();
                 break;
             case 3:
-                Ex3.rum();
+                Ex3.run();
                 break;
             case 4:
-                Ex4.rum();
+                Ex4.run();
                 break;
             case 5:
-                Ex5.rum();
+                Ex5.run();
                 break;
             case 6:
-                Ex6.rum();
+                Ex6.run();
                 break;
             case 7:
-                Ex7.rum();
+                Ex7.run();
                 break;
             case 8:
-                Ex8.rum();
+                Ex8.run();
                 break;
             case 9:
-                Ex9.rum();
+                Ex9.run();
                 break;
             case 10:
-                Ex10.rum();
+                Ex10.run();
                 break;
             case 11:
-                Ex11.rum();
+                Ex11.run();
                 break;
             case 12:
-                Ex12.rum();
+                Ex12.run();
                 break;
             case 13:
-                Ex13.rum();
+                Ex13.run();
                 break;
             case 14:
-                Ex14.rum();
+                Ex14.run();
                 break;
             case 15:
-                Ex15.rum();
+                Ex15.run();
                 break;
             case 16:
-                Ex16.rum();
+                Ex16.run();
                 break;
             case 17:
-                Ex17.rum();
+                Ex17.run();
                 break;
             case 18:
-                Ex18.rum();
+                Ex18.run();
                 break;
             case 19:
-                Ex19.rum();
+                Ex19.run();
                 break;
             case 20:
-                Ex20.rum();
+                Ex20.run();
                 break;
         }
     }

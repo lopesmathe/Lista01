@@ -1,5 +1,5 @@
 public class Ex16 {
-    public static void rum() {
+    public static void run() {
         System.out.println("mande 3 notas");
         Wbiblioteca bb = new Wbiblioteca();
         bb.PegarNumerosF();

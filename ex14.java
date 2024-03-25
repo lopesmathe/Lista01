@@ -1,5 +1,5 @@
 public class Ex14 {
-    public static void rum() {
+    public static void run() {
         System.out.println("Digite o valor do a1");
         Wbiblioteca bi = new Wbiblioteca();
 

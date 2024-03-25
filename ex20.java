@@ -1,5 +1,5 @@
 public class Ex20 {
-    public static void rum() {
+    public static void run() {
         Wbiblioteca bb = new Wbiblioteca();
         System.out.println("me informe o tempo e a velocidade");
         bb.PegarNumerosF();

@@ -1,5 +1,5 @@
 public class Ex13 {
-    public static void rum() {
+    public static void run() {
         int resu = 0;
         Wbiblioteca bi = new Wbiblioteca();
         bi.PegarNumeros();

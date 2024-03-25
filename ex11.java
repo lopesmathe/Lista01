@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Ex11 {
-    public static void rum() {
+    public static void run() {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Digite o primeiro valor:");

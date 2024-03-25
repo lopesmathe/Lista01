@@ -1,5 +1,5 @@
 public class Ex7 {
-    public static void rum() {
+    public static void run() {
         System.out.println("Me de um valor e eu irei falar se ele é esta no intervalo de 100 a 200");
         Wbiblioteca biblioteca = new Wbiblioteca();
         biblioteca.PegarNumero();
