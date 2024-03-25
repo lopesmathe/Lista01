@@ -1,7 +1,7 @@
-public class ex15 {
+public class Ex15 {
     public static void rum() {
         System.out.println("manda os valores de p1");
-        wbiblioteca bb = new wbiblioteca();
+        Wbiblioteca bb = new Wbiblioteca();
         bb.PegarNumerosF();
         float x1 = bb.VoltarNumero1F();
         float y1 = bb.VoltarNumero2F();

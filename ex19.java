@@ -1,6 +1,6 @@
-public class ex19 {
+public class Ex19 {
     public static void rum() {
-        wbiblioteca bb = new wbiblioteca();
+        Wbiblioteca bb = new Wbiblioteca();
         System.out.println("me informe o raio e dps a altura");
         bb.PegarNumerosF();
         float R = bb.VoltarNumero1F();

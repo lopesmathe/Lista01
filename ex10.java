@@ -1,7 +1,7 @@
-public class ex10 {
+public class Ex10 {
     public static void rum() {
         System.out.println("digite o numero de 1 a 5 e ele sera escrito por extenso");
-        wbiblioteca biblioteca = new wbiblioteca();
+        Wbiblioteca biblioteca = new Wbiblioteca();
         biblioteca.PegarNumero();
         int escolha = biblioteca.VoltarNumero1();
         switch (escolha) {

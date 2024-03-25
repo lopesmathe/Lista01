@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ex3 {
+public class Ex3 {
     public static void rum() {
         System.out.println("me informe dois valores");
         System.out.println("valor 1");

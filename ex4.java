@@ -1,6 +1,6 @@
-public class ex4 {
+public class Ex4 {
     public static void rum() {
-        wbiblioteca biblioteca = new wbiblioteca();
+        Wbiblioteca biblioteca = new Wbiblioteca();
         biblioteca.PegarNumeros();
         int num1 = biblioteca.VoltarNumero1();
         int num2 = biblioteca.VoltarNumero2();
